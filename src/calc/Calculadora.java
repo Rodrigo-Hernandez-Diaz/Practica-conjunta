@@ -21,6 +21,13 @@ public class Calculadora {
         return ans;
     }
 
+    public int resta(int a, int b) {
+        ans = a - b;
+        return ans;
+    }
     
-
+    public int multiplicacion(int a, int b) {
+        ans = a * b;
+        return ans;
+    }
 }
