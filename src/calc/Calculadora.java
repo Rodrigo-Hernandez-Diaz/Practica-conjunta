@@ -20,7 +20,7 @@ public class Calculadora {
         ans = a + b;
         return ans;
     }
-    public int restar(int a, int b) {
+    public int resta(int a, int b) {
         ans = a - b;
         return ans;
     }
