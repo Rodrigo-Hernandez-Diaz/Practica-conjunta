@@ -31,6 +31,14 @@ public class Calculadora {
     return a / b;
     }
 
+    public int resta(int a, int b) {
+        ans = a - b;
+        return ans;
+    }
     
+    public int multiplicacion(int a, int b) {
+        ans = a * b;
+        return ans;
+    }
 
 }
